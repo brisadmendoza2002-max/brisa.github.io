@@ -63,6 +63,7 @@ h2{
 }
 .btn-albums button:hover{
     transform: scale(1.1);
+    transform-origin: 20px;
 }
 .intereses img{
     max-width: 300px;
